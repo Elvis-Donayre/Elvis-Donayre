@@ -1,6 +1,6 @@
 # 👋 Hola, soy Elvis Donayre!
 
-[![](https://visitcount.itsvg.in/api?id=Elvis-Donayre&icon=0&color=0)](https://visitcount.itsvg.in)
+![](https://komarev.com/ghpvc/?username=Elvis-Donayre&color=blue)
 
 Como analista de datos y futuro científico de datos, tengo experiencia en el sector público, donde he participado en diversas iniciativas de innovación y transformación digital. En la SUNAT, trabajo como Verificador Auxiliar y he desarrollado aplicaciones con Excel, VBA, SQL, Python, Power BI y Tableau para optimizar la recaudación tributaria, mejorar la eficiencia operativa y facilitar la toma de decisiones basadas en datos. Me especializo en el análisis de grandes volúmenes de datos, utilizando técnicas de machine learning y deep learning, así como otras herramientas avanzadas como TensorFlow, Scikit-learn, Pandas, Numpy, Plotly y Matplotlib. He trabajado en proyectos de clasificación, regresión, clustering, análisis de series temporales y procesamiento de lenguaje natural, aplicando los últimos avances en inteligencia artificial y big data.
 
@@ -55,11 +55,7 @@ Me considero un profesional proactivo, creativo y comprometido, dispuesto a enfr
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Elvis-Donayre&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🌐 Redes Sociales:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tu-perfil) 
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/tu-perfil)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Elvis-Donayre&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://linkedin.com/in/tu-perfil](https://www.linkedin.com/in/elvis-donayre-data-scientist-analyst/)) 
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
