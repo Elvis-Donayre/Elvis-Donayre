@@ -1,6 +1,6 @@
-# 👋 Hola, soy Elvis!
+# 👋 Hola, soy Elvis Donayre!
 
-[![](https://visitcount.itsvg.in/api?id=elvisrosa&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Elvis-Donayre&icon=0&color=0)](https://visitcount.itsvg.in)
 
 Como analista de datos y futuro científico de datos, tengo experiencia en el sector público, donde he participado en diversas iniciativas de innovación y transformación digital. En la SUNAT, trabajo como Verificador Auxiliar y he desarrollado aplicaciones con Excel, VBA, SQL, Python, Power BI y Tableau para optimizar la recaudación tributaria, mejorar la eficiencia operativa y facilitar la toma de decisiones basadas en datos. Me especializo en el análisis de grandes volúmenes de datos, utilizando técnicas de machine learning y deep learning, así como otras herramientas avanzadas como TensorFlow, Scikit-learn, Pandas, Numpy, Plotly y Matplotlib. He trabajado en proyectos de clasificación, regresión, clustering, análisis de series temporales y procesamiento de lenguaje natural, aplicando los últimos avances en inteligencia artificial y big data.
 
@@ -32,17 +32,17 @@ Me considero un profesional proactivo, creativo y comprometido, dispuesto a enfr
   <tr>
     <td width="50%">
       <h3>Recommendation Engine 📚</h3>
-      <img src="https://raw.githubusercontent.com/elvisrosa/elvisrosa/main/images/recommendation-engine.jpg" alt="Recommendation Engine">
+      <img src="https://raw.githubusercontent.com/Elvis-Donayre/Elvis-Donayre/main/images/recommendation-engine.jpg" alt="Recommendation Engine">
       <p>Custom and automated book recommendation system based on users' behaviors developed with clustering machine learning algorithms on Python. The main target is to improve the user experience and business impact.</p>
-      <a href="https://github.com/elvisrosa/recommendation-engine">
+      <a href="https://github.com/Elvis-Donayre/recommendation-engine">
         <img src="https://img.shields.io/badge/CÓDIGO-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repo">
       </a>
     </td>
     <td width="50%">
       <h3>Risk analysis 💲</h3>
-      <img src="https://raw.githubusercontent.com/elvisrosa/elvisrosa/main/images/risk-analysis.jpg" alt="Risk Analysis">
+      <img src="https://raw.githubusercontent.com/Elvis-Donayre/Elvis-Donayre/main/images/risk-analysis.jpg" alt="Risk Analysis">
       <p>Our main goal is to improve bank profits by analyzing the customer loan risk and automate these tasks in a productive environment before giving them the credit approval, using classification machine learning algorithms.</p>
-      <a href="https://github.com/elvisrosa/risk-analysis">
+      <a href="https://github.com/Elvis-Donayre/risk-analysis">
         <img src="https://img.shields.io/badge/CÓDIGO-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repo">
       </a>
     </td>
@@ -50,16 +50,16 @@ Me considero un profesional proactivo, creativo y comprometido, dispuesto a enfr
 </table>
 
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=elvisrosa&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=elvisrosa&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=elvisrosa&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=Elvis-Donayre&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Elvis-Donayre&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Elvis-Donayre&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🌐 Redes Sociales:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tu-perfil) 
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/tu-perfil)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=elvisrosa&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=Elvis-Donayre&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
