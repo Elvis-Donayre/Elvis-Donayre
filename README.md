@@ -34,7 +34,7 @@ Me considero un profesional proactivo, creativo y comprometido, dispuesto a enfr
       <h3>Recommendation Engine 📚</h3>
       <img src="https://raw.githubusercontent.com/Elvis-Donayre/Elvis-Donayre/main/images/recommendation-engine.jpg" alt="Recommendation Engine">
       <p>Custom and automated book recommendation system based on users' behaviors developed with clustering machine learning algorithms on Python. The main target is to improve the user experience and business impact.</p>
-      <a href="[https://github.com/Elvis-Donayre/recommendation-engine](https://github.com/Elvis-Donayre/Sentiment-Classification-Twitter)">
+      <a href="https://github.com/Elvis-Donayre/Sentiment-Classification-Twitter">
         <img src="https://img.shields.io/badge/CÓDIGO-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repo">
       </a>
     </td>
@@ -42,7 +42,7 @@ Me considero un profesional proactivo, creativo y comprometido, dispuesto a enfr
       <h3>Risk analysis 💲</h3>
       <img src="https://raw.githubusercontent.com/Elvis-Donayre/Elvis-Donayre/main/images/risk-analysis.jpg" alt="Risk Analysis">
       <p>Our main goal is to improve bank profits by analyzing the customer loan risk and automate these tasks in a productive environment before giving them the credit approval, using classification machine learning algorithms.</p>
-      <a href="[https://github.com/Elvis-Donayre/risk-analysis](https://github.com/Elvis-Donayre/Credit_Scoring_Prediction)">
+      <a href="https://github.com/Elvis-Donayre/Credit_Scoring_Prediction">
         <img src="https://img.shields.io/badge/CÓDIGO-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repo">
       </a>
     </td>
