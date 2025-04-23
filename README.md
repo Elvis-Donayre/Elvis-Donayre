@@ -55,7 +55,7 @@ Me considero un profesional proactivo, creativo y comprometido, dispuesto a enfr
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Elvis-Donayre&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🌐 Redes Sociales:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://linkedin.com/in/tu-perfil](https://www.linkedin.com/in/elvis-donayre-data-scientist-analyst/)) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elvis-donayre-data-scientist-analyst/) 
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
