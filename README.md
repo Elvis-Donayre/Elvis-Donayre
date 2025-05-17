@@ -6,8 +6,11 @@ Data analyst and aspiring data scientist with experience in the public sector, s
 My expertise focuses on analyzing large volumes of data using advanced machine learning and deep learning techniques. I have successfully implemented various projects that demonstrate my technical capabilities:
 
 ✅ Developed a credit scoring system with balancing techniques (SMOTE) that minimizes false positives and optimizes precision through a custom threshold (0.3)
+
 ✅ Created a sentiment classifier for tweets with 78.38% accuracy using XGBoost and LightGBM with enriched features
+
 ✅ Implemented predictive models with BigQuery ML on Google Analytics data, transforming complex structures using advanced SQL
+
 ✅ Designed an e-commerce content generator with microservices architecture integrating web scraping, computer vision, and LLMs
 
 I work with tools such as TensorFlow, Scikit-learn, Pandas, Numpy, Plotly, and Matplotlib, applying the latest advances in artificial intelligence and big data to classification, regression, clustering, time series, and NLP projects.
