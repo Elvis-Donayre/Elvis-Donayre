@@ -1,20 +1,28 @@
-# 👋 Hola, soy Elvis Donayre!
+# 👋 Hi, I'm Elvis Donayre!
 
 ![](https://komarev.com/ghpvc/?username=Elvis-Donayre&color=blue)
 
-Como analista de datos y futuro científico de datos, tengo experiencia en el sector público, donde he participado en diversas iniciativas de innovación y transformación digital. En la SUNAT, trabajo como Verificador Auxiliar y he desarrollado aplicaciones con Excel, VBA, SQL, Python, Power BI y Tableau para optimizar la recaudación tributaria, mejorar la eficiencia operativa y facilitar la toma de decisiones basadas en datos. Me especializo en el análisis de grandes volúmenes de datos, utilizando técnicas de machine learning y deep learning, así como otras herramientas avanzadas como TensorFlow, Scikit-learn, Pandas, Numpy, Plotly y Matplotlib. He trabajado en proyectos de clasificación, regresión, clustering, análisis de series temporales y procesamiento de lenguaje natural, aplicando los últimos avances en inteligencia artificial y big data.
+Data analyst and aspiring data scientist with experience in the public sector, specialized in innovation initiatives and digital transformation. Currently working as an Auxiliary Verifier at SUNAT, where I develop analytical solutions using Excel, VBA, SQL, Python, Power BI, and Tableau to optimize tax collection and improve operational efficiency.
+My expertise focuses on analyzing large volumes of data using advanced machine learning and deep learning techniques. I have successfully implemented various projects that demonstrate my technical capabilities:
 
-Además, poseo habilidades de liderazgo y comunicación que me permiten trabajar en equipo y transmitir conceptos complejos de manera clara y efectiva, adaptándome a las necesidades y expectativas de cada audiencia. Me interesa realizar prácticas en el área de tecnología, donde podría aplicar mis conocimientos y aportar valor a la empresa, aprendiendo de los mejores profesionales y colaborando en proyectos desafiantes y de alto impacto.
+✅ Developed a credit scoring system with balancing techniques (SMOTE) that minimizes false positives and optimizes precision through a custom threshold (0.3)
+✅ Created a sentiment classifier for tweets with 78.38% accuracy using XGBoost and LightGBM with enriched features
+✅ Implemented predictive models with BigQuery ML on Google Analytics data, transforming complex structures using advanced SQL
+✅ Designed an e-commerce content generator with microservices architecture integrating web scraping, computer vision, and LLMs
 
-Me considero un profesional proactivo, creativo y comprometido, dispuesto a enfrentar nuevos retos y contribuir al éxito de los proyectos que emprenda. Si deseas conocer más sobre mí, no dudes en contactarme. Estaré encantado de conversar contigo y responder a cualquier consulta que tengas. ¡Hasta pronto!
+I work with tools such as TensorFlow, Scikit-learn, Pandas, Numpy, Plotly, and Matplotlib, applying the latest advances in artificial intelligence and big data to classification, regression, clustering, time series, and NLP projects.
+I complement my technical skills with leadership and effective communication capabilities that allow me to convey complex concepts clearly and work efficiently in teams.
+I'm seeking opportunities in technology where I can apply my knowledge, collaborate on challenging projects, and continue growing as a professional. I'm characterized by being proactive, creative, and committed, always ready to face new challenges.
 
-## 🚀 Habilidades
+## 🚀 Skills
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-3776AB?style=for-the-badge)
 ![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![ggplot2](https://img.shields.io/badge/ggplot2-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![dplyr](https://img.shields.io/badge/dplyr-276DC3?style=for-the-badge&logo=r&logoColor=white)
@@ -22,7 +30,20 @@ Me considero un profesional proactivo, creativo y comprometido, dispuesto a enfr
 ![openxlsx](https://img.shields.io/badge/openxlsx-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![writexl](https://img.shields.io/badge/writexl-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=sql&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![VBA](https://img.shields.io/badge/VBA-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-43B02A?style=for-the-badge)
+![Google BigQuery](https://img.shields.io/badge/Google%20BigQuery-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-0078D4?style=for-the-badge)
+![LightGBM](https://img.shields.io/badge/LightGBM-0078D4?style=for-the-badge)
+![NLTK](https://img.shields.io/badge/NLTK-3776AB?style=for-the-badge)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
